@@ -1,6 +1,6 @@
 # Sales-Analysis
 
-Context of the file
+Context of the file:
 
 
 The dataset contains mock retail orders of products that we can use as our template for analysis. 
